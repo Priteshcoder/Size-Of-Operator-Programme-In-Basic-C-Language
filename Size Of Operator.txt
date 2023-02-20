@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main ()
+{
+      int a;
+      float b;
+      char c;
+
+    printf("Size of int=%lu bytes\n",sizeof(a));
+    printf("Size of int=%lu bytes\n",sizeof(b));
+    printf("Size of int=%lu bytes",sizeof(c));
+
+    }
+
